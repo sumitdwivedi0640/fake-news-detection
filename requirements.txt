@@ -1,0 +1,16 @@
+beautifulsoup4
+fastapi
+langchain-core
+langchain-groq
+langchain-ollama
+langchain-openai
+langgraph
+newspaper3k
+numpy
+pandas
+pydantic
+requests
+scikit-learn
+shap
+uvicorn[standard]
+lxml[html_clean]
